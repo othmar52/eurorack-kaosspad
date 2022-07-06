@@ -12,3 +12,7 @@ this is another approach to modify the [KORG mini kaoss pad 2](https://www.korg.
   - Remove housing of the kaoss pad and mount it to a frontpanel
   - Create a 2nd frontpanel as a breakout for the main module with all extracted controls and connectors  
     (Having it separated to a breakout allows you to place the XY-panel to your performance section of your rack)
+
+
+
+see my other [eurorack DIY projects](https://github.com/othmar52/eurorack)  

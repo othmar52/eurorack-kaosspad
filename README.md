@@ -37,6 +37,8 @@ this is another approach to modify the [KORG mini kaoss pad 2](https://www.korg.
 
 ![image](https://user-images.githubusercontent.com/7056051/178193634-497d0192-e8b9-4285-a6e2-88547e5504ca.png)  
 
+![image](https://user-images.githubusercontent.com/7056051/178194130-5a02f3bf-5dab-463b-be2d-f4c266f1f670.png)  
+
 ![image](https://user-images.githubusercontent.com/7056051/178193698-3bd611c5-f636-4303-93fc-19716850f300.png)  
 
 
